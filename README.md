@@ -19,5 +19,7 @@ The script is also flexible enough that if a new officer is listed in or if a ne
 
 Tech Stack Used:
 -Python: openpyxl, pandas, and pyodbc modules
+
 -SQL
+
 -SQL Server database
