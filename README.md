@@ -18,7 +18,7 @@ New data or additional officers could be added later and the script will include
 The script is also flexible enough that if a new officer is listed in or if a new person takes over a current officer code, it is easy to adjust to ensure the data integrity is kept and data is updated correctly. 
 
 ## Instructions
-Click on the Pyfile to open the code.  You can also click on the excel files to see the before and after transformation.
+Click on the Data Pipeline.ipynb above to see the code.  You can also click on Fictional Data.xlsx to see the original Excel file and Actual End Fictional Data.xlsx to see the updated one.
 
 ## Tech Stack Used:
 -Python: openpyxl, pandas, and pyodbc modules
