@@ -8,7 +8,7 @@ This project builds a data pipeline utlizing the ETL process. The python script 
 
 3. Transforms and cleans the data sheet by checking if the primary officer name exists (from the created dictionary) and then if their officer name/code is correct, it updates the secondary officer name and secondary officer code to match. If an officer code isn't correct or the names aren't consistent, it updates them. If there is an uknown primary officer name, a new sheet (incorrect row data) is created with those rows to examine further. It also prints helpful info on the incorrect data. 
 
-4. Creates a new worksheet named 'Cleaned List' and loads the updated data into it.
+4. Creates a new worksheet named 'Cleaned Data' and loads the updated data into it.
 
 5. Creates a new worksheet named 'Incorrect Row Data' and loads the incorrect rows (uknown primary officer names) into it.
 
