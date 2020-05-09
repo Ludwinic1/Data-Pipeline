@@ -36,4 +36,4 @@ The script is also flexible enough that if a new officer is listed in or if a ne
 
 # try 2
 
-<img src = "C:\Users\nick\random_test.PNG">
+<img src = "random_test.PNG">
