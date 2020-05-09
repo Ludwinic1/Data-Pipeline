@@ -36,4 +36,3 @@ The script is also flexible enough that if a new officer is listed in or if a ne
 
 # try 2
 
-<img src = "random_test.PNG">
