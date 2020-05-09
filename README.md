@@ -23,7 +23,3 @@ The script is also flexible enough that if a new officer is listed in or if a ne
 -SQL
 
 -SQL Server database
-
-## Initial Workbook Image
-
-![Test%20Image%201.png](attachment:Test%20Image%201.PNG)
