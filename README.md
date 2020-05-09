@@ -27,3 +27,4 @@ The script is also flexible enough that if a new officer is listed in or if a ne
 ## image test
 
 ![Test%20Image%201.PNG](attachment:Test%20Image%201.PNG)
+Format: ![Alt Text](url)
