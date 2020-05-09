@@ -12,7 +12,7 @@ This project builds a data pipeline utlizing the ETL process. The python script 
 
 5. Creates a new worksheet named 'Incorrect Row Data' and loads the incorrect rows (uknown primary officer names) into it.
 
-6. Loads the cleaned data into a SQL server database table by first connecting to SQL server using the pyodbc module and then loading the data into the table. 
+6. Loads the cleaned data into a SQL server database table by first connecting to SQL Server using the pyodbc module and then loading the data into the table. 
 
 New data or additional officers could be added later and the script will include the additional info and ensure data integrity. 
 The script is also flexible enough that if a new officer is listed in or if a new person takes over a current officer code, it is easy to adjust to ensure the data integrity is kept and data is updated correctly. 
