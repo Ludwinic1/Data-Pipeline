@@ -2,7 +2,7 @@
 
 This project builds a data pipeline utlizing the ETL process. The python script does the following automatically:
 
-1. Extracts data from an Excel worbkook with two sheets containing one with jumbled data (data sheet) and another with officer name/code data (officer codes sheet).
+1. Extracts data from an Excel worbkook with two sheets containing one with jumbled data (data sheet) and another with officer name/ officer code data (officer codes sheet).
 
 2. Creates a dictionary based on the officer name and their code found in the officer codes sheet. This is to ensure data integrity and that the correct officer name is linked to their correct officer code throughout the script. 
 
