@@ -32,5 +32,5 @@ Click on the 'Data Pipeline.ipynb' above to see the code.  You can also click on
 
 # After Script Workbook Image
 
-<img src = "After Workbook Image.PNG" height=400>
+<img src = "After Workbook Image.PNG" height=500>
 
